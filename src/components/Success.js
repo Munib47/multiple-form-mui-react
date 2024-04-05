@@ -21,9 +21,9 @@ export class Success extends Component {
             <Typography variant="h1" component="div" sx={{ flexGrow: 1 }}>
               Success
             </Typography>
-            <h1>Thank You For Your Submission</h1>
-            <p>You will ge an email with further instructions</p>
           </AppBar>
+          <h1>Thank You For Your Submission</h1>
+          <p>You will ge an email with further instructions</p>
         </React.Fragment>
       </Box>
     );
